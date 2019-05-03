@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "0.0.1-alpha.0",
+  "description": "> TODO: description",
+  "author": "Julio Sihite <julio.p.sihite@gmail.com>",
+  "homepage": "https://github.com/sihitejulio/lerna-basic#readme",
+  "license": "ISC",
+  "main": "lib/testing.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sihitejulio/lerna-basic.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sihitejulio/lerna-basic/issues"
+  }
+}
